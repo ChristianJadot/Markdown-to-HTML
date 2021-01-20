@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+
+body {
+    width: 100%;
+    background-color:#fcb82f;
+    font-family: 'Open Sans Condensed','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 50px;
+}
+.main {
+    width: 100%;
+    padding-left: 30px;
+    border-left: black solid 2px;
+}
+.miaou {
+    align-content: center;
+    border: none;
+}
